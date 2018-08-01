@@ -24,4 +24,5 @@ Activer certains logiciels de base payant
 
 
 ## Liens
-[Télécharger](https://github.com/ABOATDev/UnlockSoftwares/blob/master/UnlockSoftwares.exe)
+[Télécharger](https://github.com/ABOATDev/UnlockSoftwares/raw/master/UnlockSoftwares.exe)
+[Me contacter](https://github.com/ABOATDev/UnlockSoftwares/issues/new)
