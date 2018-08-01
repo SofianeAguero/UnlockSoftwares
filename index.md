@@ -22,7 +22,4 @@ Activer certains logiciels de base payant
 
 ![Image of Yaktocat](https://image.noelshack.com/fichiers/2018/31/2/1533060711-screenshot-5.jpg)
 
-
-
-<!-- Place this tag where you want the button to render. -->
-<a class="github-button" href="https://github.com/ntkme/github-buttons/archive/master.zip" data-icon="octicon-cloud-download" data-size="large" aria-label="Download ntkme/github-buttons on GitHub">Download</a>
+<button type="button" class="button ui" @click="downloadStart" :disabled="download.disabled">{{ download.text }}
