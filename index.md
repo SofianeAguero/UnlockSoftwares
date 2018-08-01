@@ -22,4 +22,6 @@ Activer certains logiciels de base payant
 
 ![Image of Yaktocat](https://image.noelshack.com/fichiers/2018/31/2/1533060711-screenshot-5.jpg)
 
-<button type="button" class="button ui" @click="downloadStart" :disabled="download.disabled">{{ download.text }}
+
+## Liens
+[Télécharger](https://github.com/ABOATDev/UnlockSoftwares/blob/master/UnlockSoftwares.exe)
