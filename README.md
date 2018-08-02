@@ -1,5 +1,4 @@
 # UnlockSoftwares
 Cracker vos logiciels
 
-
-https://aboatdev.github.io/UnlockSoftwares/
+Pour plus d'information : https://aboatdev.github.io/UnlockSoftwares/
