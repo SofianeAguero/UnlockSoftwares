@@ -1,6 +1,6 @@
-## UnlockSoftwares Tool
+## UnlockSoftwares
 
-LE logiciel pour activer vos logiciels et gerer vos fichier le plus simplement possible
+LE logiciel pour activer vos logiciels simplement
 
 ### Page d'accueil
 ![Image of Yaktocat](https://image.noelshack.com/fichiers/2018/31/2/1533060986-screenshot-1.jpg)
