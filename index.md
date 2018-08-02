@@ -18,11 +18,10 @@ Activer certains logiciels de base payant
 > Tous les Adobes, Camtasia Studio 9, CCleaner, Revo Uninstaller et Winrar, RogueKiller, Speccy 
 > et pleins d'autres logiciels payants
 
-### Gestion de fichier
-
-![Image of Yaktocat](https://image.noelshack.com/fichiers/2018/31/2/1533060711-screenshot-5.jpg)
 
 
 ## Liens
+
 [Télécharger](https://github.com/ABOATDev/UnlockSoftwares/raw/master/UnlockSoftwares.exe)
+
 [Me contacter](https://github.com/ABOATDev/UnlockSoftwares/issues/new)
