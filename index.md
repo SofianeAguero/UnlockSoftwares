@@ -20,6 +20,17 @@ Activer certains logiciels de base payant
 
 
 
+
+### Changelog
+> EDIT 02/08/2018 :
+> Version 1.4 disponible
+> La partie "Gestion de fichier" enlever se qui fais passer mon logiciel de 9000ko à 700ko :emoji_wink:
+> EDIT 31/07/2018 : Version 1.3 disponible
+> EDIT 08/06/2018 : Changement d'hébergeur (Mediafire à Méga).
+> EDIT 14/04/2018 : Version 1.2 disponible - Rajout Gestion de fichier
+
+
+
 ## Liens
 
 [Télécharger](https://github.com/ABOATDev/UnlockSoftwares/raw/master/UnlockSoftwares.exe)
