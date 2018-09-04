@@ -1,9 +1,10 @@
-## UnlockSoftwares
+## UnlockSoftwares ![Version](https://img.shields.io/badge/Version-1.5-red.svg)
 
 LE logiciel pour activer vos logiciels simplement
 
 ### Page d'accueil
 ![Image of Yaktocat](https://image.noelshack.com/fichiers/2018/31/2/1533060986-screenshot-1.jpg)
+
 
 
 ### Paramétrer & Gérer son ordinateur
