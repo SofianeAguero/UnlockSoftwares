@@ -1,4 +1,4 @@
-## UnlockSoftwares ![Version](https://img.shields.io/badge/Version-1.5-red.svg)
+## UnlockSoftwares ![Version](https://img.shields.io/badge/Version-1.6-red.svg)
 
 LE logiciel pour activer vos logiciels simplement
 
