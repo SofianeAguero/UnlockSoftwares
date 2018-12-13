@@ -31,13 +31,14 @@ Information sur sa batterie et sa licence windows, rajouter un logiciel a lancer
 >
 >### Ajout
 >
+>- Logiciel Camtasia Studio 2018
 >- License Revo Uninstaller Pro 4.0.5
 >- Logiciel Diag
 >
 >### Fix
 >
 >
->- Bug fichier license Camtasia Studio	
+>- Bug fichier license Camtasia StudiO
 >
 >
 >## [1.4] - 02/08/2018
