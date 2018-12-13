@@ -23,45 +23,45 @@ Information sur sa batterie et sa licence windows, rajouter un logiciel a lancer
 
 
 
-# Changelog
+## Changelog
 >
 >All notable changes to this project will be documented in this file.
 >
->## [1.6] - 13/12/2018
+>### [1.6] - 13/12/2018
 >
->### Ajout
+>#### Ajout
 >
 >- Logiciel Camtasia Studio 2018
 >- License Revo Uninstaller Pro 4.0.5
 >- Logiciel Diag
 >
->### Fix
+>#### Fix
 >
 >
 >- Bug fichier license Camtasia StudiO
 >
 >
->## [1.4] - 02/08/2018
+>### [1.4] - 02/08/2018
 >
->### Ajout
+>#### Ajout
 >
 >
 >
->### Enlevé
+>#### Enlevé
 >
 >- Logiciel Driver Booster
 >- La partie "Gestion de fichier" (9000ko à 700ko !)
 >
->### Fix
+>#### Fix
 >
 >- Fix bug suite a une erreur
 >- Changement d'hébergeur (Mediafire à Méga).
 >
 >
 >
->## [1.2] - 14/04/2018
+>### [1.2] - 14/04/2018
 >
->### Ajout
+>#### Ajout
 >
 >- Rajout Gestion de fichier
 >
