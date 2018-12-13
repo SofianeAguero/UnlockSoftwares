@@ -1,15 +1,11 @@
 ## UnlockSoftwares ![Version](https://img.shields.io/badge/Version-1.6-red.svg)
 
-LE logiciel pour activer vos logiciels simplement
+UnlockSoftwares est LE logiciel pour activer vos logiciels windows très simplement
+De façons sécurisé car il n'utilise aucun exercutable ou dll modifié
 
 ### Page d'accueil
 ![Image of Yaktocat](https://image.noelshack.com/fichiers/2018/31/2/1533060986-screenshot-1.jpg)
 
-
-
-### Paramétrer & Gérer son ordinateur
-![Image of Yaktocat](https://image.noelshack.com/fichiers/2018/31/2/1533060711-screenshot-3.jpg)
-Information sur sa batterie et sa licence windows, rajouter un logiciel a lancer au démarrage, retrouver tout les mot de passe wifi enregistrer sur la machine, modification du fichier host et pleins d'autres options ...
 
 ### Logiciels
 
@@ -17,28 +13,56 @@ Information sur sa batterie et sa licence windows, rajouter un logiciel a lancer
 
 Activer certains logiciels de base payant
 > Tous les Adobes, Camtasia Studio 9, CCleaner, Revo Uninstaller et Winrar, RogueKiller, Speccy 
-> et pleins d'autres logiciels payants
+> et pleins d'autres logiciels windows payants
+Activation sans .exe ou dll ! Sans infection garentie !
+
+
+### Paramétrer & Gérer son ordinateur
+![Image of Yaktocat](https://image.noelshack.com/fichiers/2018/31/2/1533060711-screenshot-3.jpg)
+Information sur sa batterie et sa licence windows, rajouter un logiciel a lancer au démarrage, retrouver tout les mot de passe wifi enregistrer sur la machine, modification du fichier host et pleins d'autres options ...
 
 
 
-
-### Changelog
+# Changelog
 >
-> EDIT 13/12/2018 :
-> Version 1.6 disponible, Compatible Camtasia 2018 et Revo Uninstaller Pro 4.0.5 (dernière version)
+>All notable changes to this project will be documented in this file.
+>
+>## [1.6] - 13/12/2018
+>
+>### Ajout
+>
+>- License Revo Uninstaller Pro 4.0.5
+>- Logiciel Diag
+>
+>### Fix
 >
 >
-> EDIT 02/08/2018 :
+>- Bug fichier license Camtasia Studio	
 >
-> Version 1.4 disponible
 >
-> La partie "Gestion de fichier" enlevé se qui fais passer mon logiciel de 9000ko à 700ko !
+>## [1.4] - 02/08/2018
 >
-> EDIT 31/07/2018 : Version 1.3 disponible
+>### Ajout
 >
-> EDIT 08/06/2018 : Changement d'hébergeur (Mediafire à Méga).
 >
-> EDIT 14/04/2018 : Version 1.2 disponible - Rajout Gestion de fichier
+>
+>### Enlevé
+>
+>- Logiciel Driver Booster
+>- La partie "Gestion de fichier" (9000ko à 700ko !)
+>
+>### Fix
+>
+>- Fix bug suite a une erreur
+>- Changement d'hébergeur (Mediafire à Méga).
+>
+>
+>
+>## [1.2] - 14/04/2018
+>
+>### Ajout
+>
+>- Rajout Gestion de fichier
 >
 
 
