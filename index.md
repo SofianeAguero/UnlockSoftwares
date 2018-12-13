@@ -24,11 +24,15 @@ Activer certains logiciels de base payant
 
 ### Changelog
 >
+> EDIT 13/12/2018 :
+> Version 1.6 disponible, Compatible Camtasia 2018 et Revo Uninstaller Pro 4.0.5 (dernière version)
+>
+>
 > EDIT 02/08/2018 :
 >
 > Version 1.4 disponible
 >
-> La partie "Gestion de fichier" enlever se qui fais passer mon logiciel de 9000ko à 700ko :emoji_wink:
+> La partie "Gestion de fichier" enlevé se qui fais passer mon logiciel de 9000ko à 700ko !
 >
 > EDIT 31/07/2018 : Version 1.3 disponible
 >
