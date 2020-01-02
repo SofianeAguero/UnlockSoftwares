@@ -18,7 +18,7 @@ Chaque activation logiciel se fais en un clic et la méthode d'activation est ex
 
 ### Activé par exemple :
 
-Tous les **Adobes** , **Camtasia Studio 9**, **CCleaner** , **Revo Uninstaller**, **Winrar**, **RogueKiller**, **Speccy** et pleins d’autres logiciels
+**Camtasia Studio 9**, **CCleaner**, **Revo Uninstaller**, **Winrar**, **RogueKiller**, **Speccy**, **Recurva**, **UCheck**, **Snagit** et pleins d’autres logiciels
 
 ### Extra :
 
@@ -93,6 +93,23 @@ Téléchargement
 #### Une fonctionnalitées ne fonctionne pas ?
 
 > Vérifié si vous exécutez bien le programme en tant qu'administrateur
+
+
+#### Pourquoi est-il détecter par les antivirus ?
+
+> Malheureusement c'est "normal" que UnlockSoftwares est détecté par la plupart des anti-virus
+Je vous rassure c'est du faux-positif 
+(définition : Un faux positif est une erreur de jugement d'un programme de détection, qui va réagir alors qu'il n'y a pas lieu de le faire.)
+Voici la liste du pourquoi mon logiciel est détecté :
+Il va chercher des scripts sur mon github et les exécutes.
+Modifie, supprimer ou rajoute des clés au registres.
+Modifie le fichier Host.
+Modifie l'état d'un fichier (caché, lecture seul ...)
+Télécharge le fichier Eicar pour test l'AV.
+Supprime tout un répertoire en mode forcé.
+Les solutions pour les utilisateurs :
+Désactiver temporairement vos anti-virus en téléchargeant UnlockSoftwares
+Et mettez-le dans les fichiers autorisé par antivirus
 
 
 ----------------
