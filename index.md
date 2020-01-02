@@ -116,4 +116,7 @@ Et mettez-le dans les fichiers autorisé par antivirus
 ## Liens
 
 [Télécharger](https://github.com/ABOATDev/UnlockSoftwares/raw/master/UnlockSoftwares.exe)
-<img src="https://img.icons8.com/dotty/80/000000/counter.png">
+
+
+![compteur de visites](http://www.web-counter.net/count_20091204.php?c=0PdZd3fvOGn)  
+
