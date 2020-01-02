@@ -25,6 +25,10 @@ Tous les **Adobes** , **Camtasia Studio 9**, **CCleaner** , **Revo Uninstaller**
 Information sur sa batterie et sa licence windows, rajouter un logiciel a lancer au démarrage, retrouver tout les mot de passe wifi enregistrer sur la machine, modification du fichier host et pleins d’autres options …
 
 
+
+----------------
+
+
 Téléchargement
 --------------
 
@@ -40,6 +44,9 @@ Téléchargement
 [Discord](https://discord.gg/qDbnMts)
 
 
+
+
+----------------
 
 
 #### CHANGELOG
@@ -72,6 +79,10 @@ Téléchargement
 > Rajout Gestion de fichier
 
 
+
+----------------
+
+
 #### Difficultés a le télécharger ?
 
 
@@ -84,7 +95,7 @@ Téléchargement
 > Vérifié si vous exécutez bien le programme en tant qu'administrateur
 
 
-
+----------------
 ## Liens
 
 [Télécharger](https://github.com/ABOATDev/UnlockSoftwares/raw/master/UnlockSoftwares.exe)
