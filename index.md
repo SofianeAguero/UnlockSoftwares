@@ -1,10 +1,4 @@
 ## UnlockSoftwares[![Version](https://img.shields.io/badge/Version-2.0-red.svg)](https://github.com/ABOATDev/UnlockSoftwares/raw/master/UnlockSoftwares.exe)
-UnlockSoftwares
----------------
-
-### Un seul logiciel, pour une multitude de cracks
-
-[Télécharger](#https://github.com/ABOATDev/UnlockSoftwares/raw/master/UnlockSoftwares.exe)
 
 UnlockSoftwares c'est quoi ?
 ----------------------------
@@ -21,23 +15,15 @@ Chaque activation logiciel se fais en un clic et la méthode d'activation est ex
 
 ----------------
 
-### Accueil du logiciel
-
-![](screenshot-1.jpg)
 
 ### Activé par exemple :
 
-Tous les **Adobes** , **Camtasia Studio 9 **, **CCleaner** , **Revo Uninstaller**, **Winrar**, **RogueKiller**, **Speccy** et pleins d’autres logiciels****
-
-****![](screenshot-2.jpg)
+Tous les **Adobes** , **Camtasia Studio 9**, **CCleaner** , **Revo Uninstaller**, **Winrar**, **RogueKiller**, **Speccy** et pleins d’autres logiciels
 
 ### Extra :
 
 Information sur sa batterie et sa licence windows, rajouter un logiciel a lancer au démarrage, retrouver tout les mot de passe wifi enregistrer sur la machine, modification du fichier host et pleins d’autres options …
 
-![](screenshot-3.jpg)****
-
-****
 
 Téléchargement
 --------------
